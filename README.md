@@ -1,2 +1,2 @@
 # FirstRepository
-Karens first reypositor
+Karens first repository
